@@ -1,0 +1,7 @@
+#card {
+    width: 20rem;
+    padding: 1rem;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    font-family: "Segoe UI",Arial,sans-serif;
+}
